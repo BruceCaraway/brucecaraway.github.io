@@ -1,11 +1,13 @@
 # Site settings
-title: WebConfs - A blog about web conferences
-email: coolwebconfs@gmail.com
-description: A blog about my favorite web conferences.
+title: Bruce Caraway
+email: bruce.caraway@gmail.com
+description: Bruce's personal blog
 baseurl: ''
-url: "http://webconfs.me" # the base hostname & protocol for your site
+url: "http://brucecaraway.com" # the base hostname & protocol for your site
 twitter_username: brucecaraway
-paginate: 3
+instagram_id: 700784
+
+paginate: 5
 
 # Build settings
 markdown: kramdown
@@ -18,14 +20,14 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
-      author: Bruce Caraway
+      author: Bruce
       layout: "post"
-      category: conferences
+      category: news
       comments: true
   -
     scope:
       path: "" # an empty string here means all files in the project
       type: "pages" # previously `post` in Jekyll 2.2.
     values:
-      author: Bruce Caraway
+      author: Bruce 
       layout: "page"
