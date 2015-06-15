@@ -5,8 +5,8 @@
     <description>Bruce&#39;s personal blog</description>
     <link>http://brucecaraway.com/</link>
     <atom:link href="http://brucecaraway.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Jun 2015 17:37:10 -0500</pubDate>
-    <lastBuildDate>Sun, 14 Jun 2015 17:37:10 -0500</lastBuildDate>
+    <pubDate>Sun, 14 Jun 2015 19:58:52 -0500</pubDate>
+    <lastBuildDate>Sun, 14 Jun 2015 19:58:52 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -27,7 +27,7 @@ This will be my fifth WordCamp and each one has been a valuable experience and w
     
       <item>
         <title>WPEngine</title>
-        <description>&lt;div class=&quot;alignright&quot;&gt;&lt;a href=&quot;http://www.shareasale.com/r.cfm?b=398768&amp;amp;u=461545&amp;amp;m=41388&amp;amp;urllink=&amp;amp;afftrack=&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;assets/Feature-Fast-300x250.jpeg&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+        <description>&lt;div class=&quot;alignright&quot;&gt;&lt;a href=&quot;http://www.shareasale.com/r.cfm?b=398768&amp;amp;u=461545&amp;amp;m=41388&amp;amp;urllink=&amp;amp;afftrack=&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;/assets/Feature-Fast-300x250.jpeg&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;p&gt;After nearly five years calling HostGator my host of choice for my personal, educational and client sites, I&#39;ve made a decision to move all sites that I oversee to &lt;a href=&quot;http://www.shareasale.com/r.cfm?b=398424&amp;amp;u=461545&amp;amp;m=41388&amp;amp;urllink=&amp;amp;afftrack=&quot; target=&quot;&amp;quot;_blank&quot;&gt;WPEngine&lt;/a&gt;. Sure, they aren&#39;t cheap and they are sometimes a target of ridicule. But who isn&#39;t these days? Especially in the doubly finicky realm of web hosting and WordPress.&lt;br /&gt;
 Even so, having to push through the generic cPanel and multiple facets of HostGator and their various services each time an administrative change is needed just makes me tired. Yes, I am still finding my way in the WPEngine administrative panel but it is more streamlined and fully focused on the things that matter.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;And, it&#39;s all WordPress, all the time.&lt;/em&gt;&lt;/p&gt;
@@ -77,7 +77,7 @@ If you are like me, one who often struggles with an underlying desire to use Tim
         <description>&lt;p&gt;I&#39;ve recently started using several of &lt;a href=&quot;http://themify.me/member/go.php?r=16626&amp;i=b6&quot;&gt;Themify&#39;s nifty themes&lt;/a&gt; for a couple of sites that I personally maintain.  Many of their themes have a clean, minimalist look that resonates with me.  And I also like their theme customization interface and their use of shortcodes to activate select content areas of my sites.&lt;/p&gt;
 &lt;p&gt;So take a look at their great portfolio of themes and if you do decide to purchase any one of their themes, I appreciate your using the following link as it is my affiliate link with Themify.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://themify.me/member/go.php?r=16626&amp;i=b6&quot;&gt;Purchase Themify Themes Today!&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://themify.me/member/go.php?r=16626&amp;i=b6&quot;&gt;&lt;img src=&quot;assets/themify-250x250_1.jpg&quot; border=&quot;0&quot; alt=&quot;Themify WordPress Themes&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://themify.me/member/go.php?r=16626&amp;i=b6&quot;&gt;&lt;img src=&quot;/assets/themify-250x250_1.jpg&quot; border=&quot;0&quot; alt=&quot;Themify WordPress Themes&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Jun 2013 16:57:58 -0500</pubDate>
         <link>http://brucecaraway.com/themify-themes</link>
@@ -153,7 +153,7 @@ So if you live within a couple of hours of Austin, you should make every effort 
     
       <item>
         <title>The perfect tool for bulk conversion of PDF files to text files:  PDF to Text</title>
-        <description>&lt;p&gt;&lt;img class=&quot; wp-image-187 alignright&quot; alt=&quot;PDF to Text icon&quot; src=&quot;assets/Screenshot_3_7_13_3_47_PM-5.png&quot; width=&quot;131&quot; height=&quot;157&quot; /&gt;Don&#39;t you just love when you find that perfect tool (software or other) that fits the job perfectly?!? Just had that experience with &lt;a href=&quot;https://itunes.apple.com/us/app/pdf-to-text/id432054682?mt=12#&quot; target=&quot;_blank&quot;&gt;PDF to Text&lt;/a&gt; from SeaSky Software.&lt;br /&gt;
+        <description>&lt;p&gt;&lt;img class=&quot; wp-image-187 alignright&quot; alt=&quot;PDF to Text icon&quot; src=&quot;/assets/Screenshot_3_7_13_3_47_PM-5.png&quot; width=&quot;131&quot; height=&quot;157&quot; /&gt;Don&#39;t you just love when you find that perfect tool (software or other) that fits the job perfectly?!? Just had that experience with &lt;a href=&quot;https://itunes.apple.com/us/app/pdf-to-text/id432054682?mt=12#&quot; target=&quot;_blank&quot;&gt;PDF to Text&lt;/a&gt; from SeaSky Software.&lt;br /&gt;
 I had over a hundred press releases in PDF format that I needed to  quickly extract to text so that each could be converted to a stand-alone blog post.&lt;br /&gt;
 PDF to Text isn&#39;t sophisticated, but it doesn&#39;t need to be - it does exactly what it says it does.  As Albert Einstein (supposedly) said:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;a title=&quot;BrainyQuote - Albert Einstein&quot; href=&quot;http://www.brainyquote.com/quotes/quotes/a/alberteins103652.html#iJ2Ghg6sUlr5d6BT.99&quot; target=&quot;_blank&quot;&gt;Make everything as simple as possible, but not simpler.&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;

@@ -9,6 +9,8 @@ instagram_id: 700784
 
 paginate: 5
 
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
 # Build settings
 markdown: kramdown
 permalink: /:title
