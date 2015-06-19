@@ -58,6 +58,10 @@ a.btn--default {
 	color: #ffffff;
 }
 
+.post__content ul, .post__content li {
+	list-style-type: disc;
+}
+
 /*** Pygments ***/
 .highlight{
 	background-color: #eee8d5;
