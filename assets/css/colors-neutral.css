@@ -61,8 +61,16 @@ a.btn--default {
 	color: #ffffff;
 }
 
+.post__author {
+	color:#cb4b16;
+}
+
+.btn--default {
+	background-color: #1C796F;
+}
+
 .btn--default:hover {
-	background-color: #63ADCA;
+	background-color: #1A6961;
 }
 .post__content ul, .post__content li {
 	list-style-type: disc;
