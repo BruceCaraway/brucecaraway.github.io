@@ -1,5 +1,5 @@
 html, body {
-	background-color: #fdf6e3;
+	background-color: #ffffff;
 	color: #839496;
 }
 
@@ -44,7 +44,19 @@ blockquote {
 	border-color: #eee8d5;
 }
 
+a, a:active, a:visited {
+	border-bottom: none;
+}
 
+[class^="btn--"] {
+  padding: 5px 10px;
+  border-radius: 0.4em;
+}
+
+a.btn--default {
+	border-bottom: none;
+	color: #ffffff;
+}
 
 /*** Pygments ***/
 .highlight{
