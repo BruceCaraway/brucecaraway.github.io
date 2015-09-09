@@ -76,6 +76,11 @@ a.btn--default {
 	list-style-type: disc;
 }
 
+.bc_social, .fa {
+	margin-top: 10px;
+	margin-left: 5px;
+}
+
 /*** Pygments ***/
 .highlight{
 	background-color: #eee8d5;
