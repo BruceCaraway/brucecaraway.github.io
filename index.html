@@ -1,49 +1,16 @@
 ---
 layout: default
 ---
-<div class="is-hidden-mobile"></div>
-<div class="grid">
-  <div class="grid__col--12">
-    <ul class="post">
-      {% for post in paginator.posts %}
-        <li class="post__item">
-          <a class="post__title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          <div class="post__meta">
-            <b class="post__author">{{ post.author }}</b>
-            <b class="post__sep">•</b>
-            <b class="post__date">{{ post.date | date: "%b %-d, %Y" }}</b>
-          </div>
+Hi, I'm Bruce Caraway and I enjoy teaching others especially in the use of the web.  
 
-          {{post.excerpt}}
+By day I teach in the Computer and Information Technology Department at <a href="http://lonestar.edu" target="_blank">Lone Star College</a>.   
+...and by night I am usually doing something with WordPress.  Either working on a site or coaching someone else how to in <a href="http://www.lonestar.edu/Web-Developer-ce-Certificate.htm" target="_blank">Lone Star College‎'s Continuing Education department</a>.   
 
-          <a class="btn--default" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
-        </li>
-      {% endfor %}
-    </ul>
-    {% if paginator.total_pages > 1 %}
-    <div class="pagination">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-      {% else %}
-        <span>&laquo; Prev</span>
-      {% endif %}
+When I'm not teaching, I relish...  
 
-      {% for page in (1..paginator.total_pages) %}
-        {% if page == paginator.page %}
-          <em>{{ page }}</em>
-        {% elsif page == 1 %}
-          <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-        {% else %}
-          <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-        {% endif %}
-      {% endfor %}
-
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-      {% else %}
-        <span>Next &raquo;</span>
-      {% endif %}
-    </div>
-    {% endif %}
-  </div>
-</div>
+- spending time with my wife, Sherri.  
+- my role as father to my son and daughter - both blessings beyond imagine.  
+- quiet moments reading up on the latest geekery.  
+- sharing 'Aha' moments with others, always.   
+  
+Want to connect or have something to share?  ...then, by all means, give me a <a href="/contact" title="Contact">shout</a>.
