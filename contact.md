@@ -7,7 +7,7 @@ You can find me here:
 - Twitter: [@brucecaraway](https://twitter.com/brucecaraway)  
 - LinkedIn: [BruceCaraway](https://www.linkedin.com/in/brucecaraway)  
 - GitHub: [BruceCaraway](https://github.com/BruceCaraway)  
-- Instagram: [@brucecaraway](https://www.instagram.com/in/brucecaraway)  
+- Instagram: [@brucecaraway](https://www.instagram.com/brucecaraway)  
  
 ...or drop me message here:  
 
