@@ -11,6 +11,6 @@ When I'm not teaching, I relish...
 - spending time with my wife, Sherri.  
 - my role as father to my son and daughter - both blessings beyond imagine.  
 - quiet moments reading up on the latest geekery.  
-- sharing 'Aha' moments with others, always.   
+- sharing 'Aha' moments with others (this never gets old!)   
   
 Want to connect or have something to share?  ...then, by all means, give me a <a href="/contact" title="Contact">shout</a>.
