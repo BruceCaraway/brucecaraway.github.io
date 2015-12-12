@@ -1,16 +1,9 @@
 ---
 layout: page
 ---
-Hi, I'm Bruce Caraway and I enjoy teaching others especially in the use of the web.  
+Hi, I'm Bruce Caraway and I enjoy teaching others especially in the use of the web.    
 
 By day I teach in the Computer and Information Technology Department at <a href="http://lonestar.edu" target="_blank">Lone Star College</a>.   
-...and by night I am usually doing something with WordPress.  Either working on a site or coaching someone else how to in <a href="http://www.lonestar.edu/Web-Developer-ce-Certificate.htm" target="_blank">Lone Star College‎'s Continuing Education department</a>.   
-
-When I'm not teaching, I relish...  
-
-- spending time with my wife, Sherri.  
-- my role as father to my son and daughter - both blessings beyond imagine.  
-- quiet moments reading up on the latest geekery.  
-- sharing 'Aha' moments with others (this never gets old!)   
+...and by night I am usually doing something with WordPress.  Either working on a site or coaching someone else how to in <a href="http://www.lonestar.edu/Web-Developer-ce-Certificate.htm" target="_blank">Lone Star College's Continuing Education department</a>.   
   
-Want to connect or have something to share?  ...then, by all means, give me a <a href="/contact" title="Contact">shout</a>.
+I'm also available for hire as a freelance WordPress/web developer, coach, or consultant.  Have something to share? Or interested in working together? ...then, by all means, give me a <a href="/contact" title="Contact">shout</a>.
