@@ -2,5 +2,13 @@
 title: Contact
 permalink: /contact/
 ---
-Looking to connect? Have something to share?  Or even better, have an opportunity?  Give me a shout!<br />
+You can find me here:  
+
+- Twitter: @brucecaraway  
+- LinkedIn: BruceCaraway  
+- GitHub: brucecaraway  
+- Instagram: @brucecaraway  
+ 
+...or drop me message here:  
+
 <script type="text/javascript" src="http://form.jotform.us/jsform/51647920752156"></script>
