@@ -9,6 +9,7 @@ You can find me here:
 - GitHub: [BruceCaraway](https://github.com/BruceCaraway)  
 - Instagram: [@brucecaraway](https://www.instagram.com/brucecaraway)  
  
+<a class="bc_social" href="https://twitter.com/brucecaraway" target="_blank"><i class="fa fa-github fa-2x"></i></a>
 <a class="bc_social" href="https://twitter.com/brucecaraway" target="_blank"><i class="fa fa-twitter fa-2x"></i></a> 
 <a class="bc_social" href="https://instagram.com/brucecaraway" target="_blank"><i class="fa fa-instagram fa-2x"></i></a> 
 <a class="bc_social" href="https://www.linkedin.com/in/brucecaraway" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a> 
