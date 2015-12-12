@@ -4,7 +4,7 @@ permalink: /contact/
 ---
 You can find me here:  
 
-- Twitter: [@brucecaraway][https://twitter.com/brucecaraway]  
+- Twitter: [@brucecaraway](https://twitter.com/brucecaraway)  
 - LinkedIn: [BruceCaraway][https://www.linkedin.com/in/brucecaraway]  
 - GitHub: [BruceCaraway][https://github.com/BruceCaraway]  
 - Instagram: [@brucecaraway][https://www.linkedin.com/in/brucecaraway]  
