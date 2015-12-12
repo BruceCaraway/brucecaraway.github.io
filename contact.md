@@ -1,4 +1,5 @@
 ---
+title: Contact
 permalink: /contact/
 ---
 You can also find me here:  
