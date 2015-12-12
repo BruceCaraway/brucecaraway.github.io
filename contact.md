@@ -1,5 +1,6 @@
 ---
 title: Contact
+layout: page
 permalink: /contact/
 ---
 You can also find me here:  
