@@ -13,7 +13,7 @@ exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 # Build settings
 markdown: kramdown
-permalink: /:title
+permalink: /blog/:year/:month/:day/:title
 
 #Default settings
 defaults:
