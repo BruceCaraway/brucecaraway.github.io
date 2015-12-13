@@ -33,8 +33,6 @@ table {
 	border-spacing: 0;
 }
 
-
-
 /*** Basics ***/
 body {
 	font-family: Verdana, serif;
@@ -42,11 +40,15 @@ body {
 	line-height: 1.7;
 }
 
+
 h1, h2, h3, h4, h5, h6, p, .h1, .h2, .h3, .h4, .h5, .h6 { 
 	font-family: 'Merriweather', Georgia, Times; font-weight: 700;
 	font-size: 16px;
 }
-
+.site-logo {
+	font-family: "Montserrat";
+	font-size: 18px;
+}
 
 a, a:active, a:visited {
 	text-decoration: none;
