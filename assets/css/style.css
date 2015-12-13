@@ -235,6 +235,9 @@ img.center {
 
 /*** Media Queries ***/
 @media all and (max-width: 870px) {
+	
+	
+	ul, ol { padding: 0 0 18px 0; }
 
 	#page, #header, #content, #footer {
 		width: inherit;
@@ -242,6 +245,18 @@ img.center {
 		padding-right: 10px;
 	}
 
+	#sidebar {
+		position: relative;
+		text-align: left;
+		width: 100%;
+		left: 0;
+		margin: 10px 10px 20px 10px;
+	}
+
+	#sidebar nav select.mnav {
+		display: block;
+		margin-bottom: 15px;
+	}
 
 
 }
