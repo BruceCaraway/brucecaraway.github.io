@@ -9,4 +9,4 @@ brucecaraway.com is:
 - licensed under <a href="https://creativecommons.org/licenses/by/4.0" target="_blank">Creative Commons Attribution 4.0</a>  
 - powered by <a href="https://jekyllrb.com" target="_blank">Jekyll</a>    
 - hosted on <a href="https://pages.github.com" target="_blank">GitHub Pages</a>  
-- designed to be responsive and compatible with various devices  
+- designed to be responsive and compatible with a variety of devices  
