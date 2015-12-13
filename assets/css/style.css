@@ -101,7 +101,9 @@ h3 {
 	margin: 0 0 10px 0;
 }
 
-
+.nav__item--current a, .nav__item a {
+	font-family: "Montserrat";
+}
 
 /*** Useful Classes ***/
 .clear { clear: both; }
@@ -218,7 +220,7 @@ img.center {
 
 /*** Pagination ***/
 .postnavigation {
-	padding-top: 10px;
+    padding-top: 10px;
     text-align: center;
     font-size: 0.85em;
 }
