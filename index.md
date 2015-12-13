@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<img src="/resources/profile.jpg" />
+<img src="/assets/profile-photo.jpg" />
 Hi, I'm Bruce Caraway and I enjoy writing code and creating things for the web.  But, what I like most of all, is helping others to do the same!    
 
 I teach in the Computer and Information Technology Department at <a href="http://lonestar.edu" target="_blank">Lone Star College (LSC)</a>.   My course topicss include general computering, computer programming, web programming, business applications, and WordPress.    
