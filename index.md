@@ -1,5 +1,6 @@
 ---
 layout: page
+root: "../"
 ---
 <img class="img-right img-circle" width="200" height="200" src="/assets/profile-photo.jpg" />
 Hi, I'm Bruce Caraway and I enjoy writing code and creating things for the web.  But, what I like most of all, is helping others to do the same!    

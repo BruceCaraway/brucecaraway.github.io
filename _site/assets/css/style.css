@@ -1,4 +1,8 @@
 /*** Reset ***/
+
+@import url(http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
@@ -10,6 +14,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
 body {
 	line-height: 1;
 }
@@ -28,8 +33,6 @@ table {
 	border-spacing: 0;
 }
 
-
-
 /*** Basics ***/
 body {
 	font-family: Verdana, serif;
@@ -37,9 +40,18 @@ body {
 	line-height: 1.7;
 }
 
+
+h1, h2, h3, h4, h5, h6, p, ul, li, .h1, .h2, .h3, .h4, .h5, .h6 { 
+	font-family: 'Merriweather', Georgia, Times; font-weight: 400;
+	font-size: 16px;
+}
+.site-logo {
+	font-family: "Montserrat";
+	font-size: 20px;
+}
+
 a, a:active, a:visited {
 	text-decoration: none;
-	border-bottom: 1px solid #839496;
 	padding-bottom: 2px;
 }
 a:hover {
@@ -89,7 +101,9 @@ h3 {
 	margin: 0 0 10px 0;
 }
 
-
+.nav__item--current a, .nav__item a {
+	font-family: "Montserrat";
+}
 
 /*** Useful Classes ***/
 .clear { clear: both; }
@@ -202,11 +216,15 @@ img.center {
 	margin: 0 auto 1em auto;
 }
 
+.img-circle {
+	border-radius: 50%;
+}
+
 
 
 /*** Pagination ***/
 .postnavigation {
-	padding-top: 10px;
+    padding-top: 10px;
     text-align: center;
     font-size: 0.85em;
 }
@@ -223,6 +241,9 @@ img.center {
 
 /*** Media Queries ***/
 @media all and (max-width: 870px) {
+	
+	
+	ul, ol { padding: 0 0 18px 0; }
 
 	#page, #header, #content, #footer {
 		width: inherit;
@@ -243,39 +264,9 @@ img.center {
 		margin-bottom: 15px;
 	}
 
+
 }
 
 
 
-/*** Icons ***/
-@font-face {
-  font-family: 'solarthemeicons';
-  src: url('../fonts/solarthemeicons.eot');
-  src: url('../fonts/solarthemeicons.eot#iefix') format('embedded-opentype'),
-       url('../fonts/solarthemeicons.woff') format('woff'),
-       url('../fonts/solarthemeicons.ttf') format('truetype'),
-       url('../fonts/solarthemeicons.svg#solarthemeicons') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
 
-[class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "solarthemeicons";
-  font-style: normal;
-  font-weight: normal;
-  speak: none;
-  display: inline-block;
-  text-decoration: inherit;
-  width: 1em;
-  margin-right: .2em;
-  text-align: center;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1.7;
-}
- 
-.icon-sun:before { content: '\e801'; }
-.icon-anchor:before { content: '\e800'; }
-.icon-anchor {
-	font-size: 65%;
-}

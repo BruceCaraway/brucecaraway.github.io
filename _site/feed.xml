@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bruce Caraway</title>
-    <description>Bruce&#39;s personal blog</description>
+    <description>Bruce Caraway&#39;s Personal Site</description>
     <link>http://brucecaraway.com/</link>
     <atom:link href="http://brucecaraway.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Sep 2015 07:58:31 -0500</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2015 07:58:31 -0500</lastBuildDate>
+    <pubDate>Tue, 15 Dec 2015 15:31:44 -0600</pubDate>
+    <lastBuildDate>Tue, 15 Dec 2015 15:31:44 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -16,8 +16,8 @@ If you haven’t gotten your &lt;a href=&quot;https://dfw.wordcamp.org/2015/tick
 Can’t wait to see you there!&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Sep 2015 07:45:55 -0500</pubDate>
-        <link>http://brucecaraway.com/only-a-few-days-until-wordcamp-dfw</link>
-        <guid isPermaLink="true">http://brucecaraway.com/only-a-few-days-until-wordcamp-dfw</guid>
+        <link>http://brucecaraway.com/blog/only-a-few-days-until-wordcamp-dfw</link>
+        <guid isPermaLink="true">http://brucecaraway.com/blog/only-a-few-days-until-wordcamp-dfw</guid>
         
         
         <category>news</category>
@@ -40,8 +40,8 @@ So, here&amp;#8217;s the new site. It will be going through a few updates over t
 &lt;/body&gt;
 &lt;/html&gt;</description>
         <pubDate>Sat, 20 Jun 2015 21:00:55 -0500</pubDate>
-        <link>http://brucecaraway.com/newly-deployed-jekyll-site</link>
-        <guid isPermaLink="true">http://brucecaraway.com/newly-deployed-jekyll-site</guid>
+        <link>http://brucecaraway.com/blog/newly-deployed-jekyll-site</link>
+        <guid isPermaLink="true">http://brucecaraway.com/blog/newly-deployed-jekyll-site</guid>
         
         
         <category>news</category>
@@ -56,8 +56,8 @@ This will be my fifth WordCamp and each one has been a valuable experience and w
 &lt;p&gt;If you have a chance to make it to this weekend&#39;s WordCamp, get there - You will not regret it!&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 23:17:55 -0500</pubDate>
-        <link>http://brucecaraway.com/countdown-to-the-2014-austin-wordcamp</link>
-        <guid isPermaLink="true">http://brucecaraway.com/countdown-to-the-2014-austin-wordcamp</guid>
+        <link>http://brucecaraway.com/blog/countdown-to-the-2014-austin-wordcamp</link>
+        <guid isPermaLink="true">http://brucecaraway.com/blog/countdown-to-the-2014-austin-wordcamp</guid>
         
         
         <category>news</category>
@@ -74,8 +74,8 @@ Even so, having to push through the generic cPanel and multiple facets of HostGa
 &lt;p&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;Now, three months into this &lt;em&gt;experiment&lt;/em&gt; - there&#39;s lots to like so far!&lt;/span&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 19 Feb 2014 13:58:30 -0600</pubDate>
-        <link>http://brucecaraway.com/wpengine</link>
-        <guid isPermaLink="true">http://brucecaraway.com/wpengine</guid>
+        <link>http://brucecaraway.com/blog/wpengine</link>
+        <guid isPermaLink="true">http://brucecaraway.com/blog/wpengine</guid>
         
         
         <category>news</category>
@@ -89,8 +89,8 @@ Even so, having to push through the generic cPanel and multiple facets of HostGa
 If you are like me, one who often struggles with an underlying desire to use Time New Roman or Arial, give this a quick look.  I believe you will find it something worth reading.&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Aug 2013 10:09:20 -0500</pubDate>
-        <link>http://brucecaraway.com/better-typography-with-buttericks-guide</link>
-        <guid isPermaLink="true">http://brucecaraway.com/better-typography-with-buttericks-guide</guid>
+        <link>http://brucecaraway.com/blog/better-typography-with-buttericks-guide</link>
+        <guid isPermaLink="true">http://brucecaraway.com/blog/better-typography-with-buttericks-guide</guid>
         
         
         <category>news</category>
@@ -103,8 +103,8 @@ If you are like me, one who often struggles with an underlying desire to use Tim
 &lt;p&gt;Okay&#39;s founder, Mike McAlister, is a talented designer/developer that continues to turn out some very effective and cools themes.  Be sure to give them a look!&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Jul 2013 17:24:44 -0500</pubDate>
-        <link>http://brucecaraway.com/okay-themes</link>
-        <guid isPermaLink="true">http://brucecaraway.com/okay-themes</guid>
+        <link>http://brucecaraway.com/blog/okay-themes</link>
+        <guid isPermaLink="true">http://brucecaraway.com/blog/okay-themes</guid>
         
         
         <category>news</category>
@@ -119,8 +119,8 @@ If you are like me, one who often struggles with an underlying desire to use Tim
 &lt;p&gt;&lt;a href=&quot;http://themify.me/member/go.php?r=16626&amp;i=b6&quot;&gt;&lt;img src=&quot;/assets/themify-250x250_1.jpg&quot; border=&quot;0&quot; alt=&quot;Themify WordPress Themes&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Jun 2013 16:57:58 -0500</pubDate>
-        <link>http://brucecaraway.com/themify-themes</link>
-        <guid isPermaLink="true">http://brucecaraway.com/themify-themes</guid>
+        <link>http://brucecaraway.com/blog/themify-themes</link>
+        <guid isPermaLink="true">http://brucecaraway.com/blog/themify-themes</guid>
         
         
         <category>news</category>
@@ -140,8 +140,8 @@ If you are like me, one who often struggles with an underlying desire to use Tim
 &lt;p&gt;Go Get It!&lt;/p&gt;
 </description>
         <pubDate>Sat, 04 May 2013 18:30:42 -0500</pubDate>
-        <link>http://brucecaraway.com/the-macsparky-markdown-field-guide-thats-it</link>
-        <guid isPermaLink="true">http://brucecaraway.com/the-macsparky-markdown-field-guide-thats-it</guid>
+        <link>http://brucecaraway.com/blog/the-macsparky-markdown-field-guide-thats-it</link>
+        <guid isPermaLink="true">http://brucecaraway.com/blog/the-macsparky-markdown-field-guide-thats-it</guid>
         
         <category>markdown</category>
         
@@ -163,8 +163,8 @@ So if you live within a couple of hours of Austin, you should make every effort 
 &lt;p&gt;See you there! &lt;/p&gt;
 </description>
         <pubDate>Fri, 19 Apr 2013 16:12:51 -0500</pubDate>
-        <link>http://brucecaraway.com/wordcamp-austin-get-there</link>
-        <guid isPermaLink="true">http://brucecaraway.com/wordcamp-austin-get-there</guid>
+        <link>http://brucecaraway.com/blog/wordcamp-austin-get-there</link>
+        <guid isPermaLink="true">http://brucecaraway.com/blog/wordcamp-austin-get-there</guid>
         
         
         <category>news</category>
@@ -182,8 +182,8 @@ So if you live within a couple of hours of Austin, you should make every effort 
 &lt;p&gt;If so, I would like to hear about it!&lt;/p&gt;
 </description>
         <pubDate>Fri, 15 Mar 2013 23:04:35 -0500</pubDate>
-        <link>http://brucecaraway.com/i-already-said-goodbye-to-google-reader</link>
-        <guid isPermaLink="true">http://brucecaraway.com/i-already-said-goodbye-to-google-reader</guid>
+        <link>http://brucecaraway.com/blog/i-already-said-goodbye-to-google-reader</link>
+        <guid isPermaLink="true">http://brucecaraway.com/blog/i-already-said-goodbye-to-google-reader</guid>
         
         
         <category>news</category>
