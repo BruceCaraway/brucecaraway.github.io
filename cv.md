@@ -17,15 +17,17 @@ I teach in the Computer and Information Technology Department at Lone Star Colle
 
 ### Specialized in
 
-Web Programming (HTML/CSS/JavaScript), WordPress  
-Database Design and Modeling   
-Programming:  Python, C#, Visual Basic  
+* Web Programming (HTML/CSS/JavaScript)  
+* WordPress  
+* Database Design and Modeling  
+* Practical Programming with Python 
 
 
 ### Research interests
 
-Mobile Data Visualization Apps  
-Python in the classroom  
+* Mobile Data Visualization Apps  
+* WordPress in Academia  
+* Python in the classroom  
 
 
 ## Education
@@ -36,7 +38,7 @@ Texas A&M University, College Station, TX
 
 `1990-1994`
 __M.S. Industrial Engineering__  
-Speciality:  Computer Integrated Manufacturing
+Speciality:  Computer Integrated Manufacturing  
 Texas A&M University, College Station, TX   
 
 ## Teaching Experience
@@ -72,7 +74,7 @@ Texas A&M University, College Station, TX
 
 `Summer 2014`__Lone Star College (Montgomery)__  
 
-* YTHSC 3940109 Web Design for Teens (Discovery College Summer Camp)  
+* YTHSC 3940109 Web Design for Teens (Discovery College Summer Camp)  
 
 `Spring 2014`__Lone Star College (University Park)__  
 
