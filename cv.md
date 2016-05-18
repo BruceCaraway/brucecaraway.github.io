@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Bruce Caraway
+title: CV
 ---
 # Bruce Caraway
 Associate Professor at Lone Star College - University Park
@@ -225,6 +225,6 @@ Lingineni, M., **B. Caraway**, P.C. Benjamin, R.J. Mayer. A Tutorial on ProSim: 
 
 <!--Footer-->
 
-Last updated: December 2015
+Document last updated: May 2016
 
 
