@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Bruce Caraway | CV
+title: Bruce Caraway
 ---
 # Bruce Caraway
 Associate Professor at Lone Star College - University Park
