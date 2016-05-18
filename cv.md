@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: CV
+title: Bruce Caraway | CV
 ---
 # Bruce Caraway
 Associate Professor at Lone Star College - University Park
@@ -42,6 +42,13 @@ Speciality:  Computer Integrated Manufacturing
 Texas A&M University, College Station, TX   
 
 ## Teaching Experience
+
+`Spring 2016`__Lone Star College (University Park)__  
+
+* ITSE 1302 Computer Programming  
+* ITSE 1311 Beginning Web Programming  
+* COSC 1301 Introduction to Computers (3 sections)   
+* Adjunct Certification Program Facilitator  
 
 `Fall 2015`__Lone Star College (University Park)__  
 
