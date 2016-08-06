@@ -10,7 +10,6 @@ Associate Professor at Lone Star College - University Park
 | <a href="http://github.com/brucecaraway" target="_blank">github: brucecaraway</a>
 </div>
 
-
 ## Currently
 
 I teach in the Computer and Information Technology Department at Lone Star College (LSC). My course topics include general computing, computer programming, web programming, business applications, and WordPress. 
@@ -41,7 +40,7 @@ Continuing Education Department
 Lingineni, M., **B. Caraway**, P.C. Benjamin, R.J. Mayer. A Tutorial on ProSim: A Knowledge-Based Simulation Model Design Tool. Proceedings of the 1996 Winter Simulation Conference. IEEE Computer Society. Washington D.C., USA 1996: 476-480.  
 
 ##Conference Presentations  
-Caraway, B. (2016, July). <a href="https://2016.wpcampus.org/schedule/helping-faculty-figure-wordpress-fits/" target="_blank">Helping Faculty Figure Out Where WordPress Fits.</a> Presentation at WPCampus 2016 Conference, University of South Florida Sarsota-Manatee, Sarasota, FL.
+Caraway, B. (2016, July). <a href="https://2016.wpcampus.org/schedule/helping-faculty-figure-wordpress-fits/" target="_blank">Helping Faculty Figure Out Where WordPress Fits.</a> Presentation at WPCampus 2016 Conference, University of South Florida Sarsota-Manatee, Sarasota, FL.  
 
 ## Education
 
