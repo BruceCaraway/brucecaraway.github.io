@@ -29,6 +29,19 @@ I teach in the Computer and Information Technology Department at Lone Star Colle
 * WordPress in Academia  
 * Python in the classroom  
 
+## Awards
+
+`2012`
+Star Award, Lone Star College - Montgomery  
+Continuing Education Department  
+
+## Publications
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Lingineni, M., **B. Caraway**, P.C. Benjamin, R.J. Mayer. A Tutorial on ProSim: A Knowledge-Based Simulation Model Design Tool. Proceedings of the 1996 Winter Simulation Conference. IEEE Computer Society. Washington D.C., USA 1996: 476-480.  
+
+##Conference Presentations  
+Caraway, B. (2016, July). <a href="https://2016.wpcampus.org/schedule/helping-faculty-figure-wordpress-fits/" target="_blank">Helping Faculty Figure Out Where WordPress Fits.</a> Presentation at WPCampus 2016 Conference, University of South Florida Sarsota-Manatee, Sarasota, FL.
 
 ## Education
 
@@ -216,19 +229,6 @@ and organizations.
 
 * Performed an AS-IS functional analysis of Bell Helicopter’s gear manufacturing facility in Arlington, TX – extensive use of the IDEF business and information modeling methods and tools.   
 
-## Awards
-
-`2012`
-Star Award, Lone Star College - Montgomery  
-Continuing Education Department  
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-Lingineni, M., **B. Caraway**, P.C. Benjamin, R.J. Mayer. A Tutorial on ProSim: A Knowledge-Based Simulation Model Design Tool. Proceedings of the 1996 Winter Simulation Conference. IEEE Computer Society. Washington D.C., USA 1996: 476-480.  
-
 <!--Footer-->
 
-Document last updated: May 2016
-
-
+Document last updated: August 2016
