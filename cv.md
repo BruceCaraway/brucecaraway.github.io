@@ -170,7 +170,7 @@ Texas A&M University, College Station, TX
 *   ITNWC 2105901 HTML I, Web Site Development 
 
 
-##Non-Teaching Experience  
+## Non-Teaching Experience
 
 `2009-Present`__WebIgnitions.com Magnolia, TX__ Owner  
 
