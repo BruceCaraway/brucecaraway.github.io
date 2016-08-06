@@ -43,6 +43,10 @@ Texas A&M University, College Station, TX
 
 ## Teaching Experience
 
+`Summer 2016`__Lone Star College (University Park)__  
+
+* ITSW 1304 Introduction to Spreadsheets  
+
 `Spring 2016`__Lone Star College (University Park)__  
 
 * ITSE 1302 Computer Programming  
