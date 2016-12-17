@@ -56,6 +56,18 @@ Texas A&M University, College Station, TX
 
 ## Teaching Experience
 
+`Fall 2016`__Lone Star College (University Park)__  
+
+* ITSE 1302 Computer Programming  
+* ITSE 1311 Beginning Web Programming  
+* COSC 1301 Introduction to Computers 
+* BCIS 1305 Business Computer Applications   
+* Adjunct Certification Program Facilitator  
+
+`Fall 2016`__Lone Star College (Montgomery)__   
+
+* ITNWC 2109100 SEO: Analytics and Tracking   
+
 `Summer 2016`__Lone Star College (University Park)__  
 
 * ITSW 1304 Introduction to Spreadsheets  
@@ -231,4 +243,4 @@ and organizations.
 
 <!--Footer-->
 
-Document last updated: August 2016
+Document last updated: December 2016
