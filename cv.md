@@ -24,15 +24,20 @@ I teach in the Computer and Information Technology Department at Lone Star Colle
 
 ### Research interests
 
-* Mobile Data Visualization Apps  
+* Programming for Engineers
+* Data Visualization in Mobile Contexts  
 * WordPress in Academia  
-* Python in the classroom  
+* Python Programming Language  
 
 ## Awards
 
 `2012`
 Star Award, Lone Star College - Montgomery  
 Continuing Education Department  
+
+## Grants  
+NSF Advanced Technological Education (ATE) 1665201. “Advanced Programmable Logic Controllers, Robotics and Networking.” 
+7/1/2017 to 12/31/2019: $$198,671, PI.
 
 ## Publications
 
@@ -41,7 +46,9 @@ Lingineni, M., **B. Caraway**, P.C. Benjamin, R.J. Mayer. A Tutorial on ProSim: 
 
 ## Conference Presentations
 
-Caraway, B. (2016, July). <a href="https://2016.wpcampus.org/schedule/helping-faculty-figure-wordpress-fits/" target="_blank">Helping Faculty Figure Out Where WordPress Fits.</a> Presentation at WPCampus 2016 Conference, University of South Florida Sarsota-Manatee, Sarasota, FL.  
+**Caraway, B.**, Cross, C., (2017, March) 	<a href="http://conference17.txdla.org/ATTEND/ScheduleofEvents.aspx" target="_blank">Using Slack to Foster Communication in the Online Classroom</a>. Presentation at Texas Distance Learning Association 2017 Conference, Moody Gardens in Galveston, TX.
+
+Caraway, B. (2016, July). <a href="https://2016.wpcampus.org/schedule/helping-faculty-figure-wordpress-fits/" target="_blank">Helping Faculty Figure Out Where WordPress Fits</a>. Presentation at WPCampus 2016 Conference, University of South Florida Sarsota-Manatee, Sarasota, FL.  
 
 ## Education
 
@@ -55,6 +62,20 @@ Speciality:  Computer Integrated Manufacturing
 Texas A&M University, College Station, TX   
 
 ## Teaching Experience
+
+`Spring 2017`__Lone Star College (University Park)__  
+
+* BCIS 1305 Business Computer Applications (2 sections) 
+* ITSW 1304 Introduction to Spreadsheets  
+
+`Summer 2017`__Lone Star College (Montgomery)__   
+
+* ITNWC 2109100 SEO: Analytics and Tracking  
+
+`Spring 2017`__Lone Star College (University Park)__  
+
+* BCIS 1305 Business Computer Applications  
+* ITSW 1304 Introduction to Spreadsheets  
 
 `Fall 2016`__Lone Star College (University Park)__  
 
