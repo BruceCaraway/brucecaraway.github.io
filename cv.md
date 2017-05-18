@@ -63,18 +63,13 @@ Texas A&M University, College Station, TX
 
 ## Teaching Experience
 
-`Spring 2017`__Lone Star College (University Park)__  
-
-* BCIS 1305 Business Computer Applications (2 sections) 
-* ITSW 1304 Introduction to Spreadsheets  
-
 `Summer 2017`__Lone Star College (Montgomery)__   
 
 * ITNWC 2109100 SEO: Analytics and Tracking  
 
 `Spring 2017`__Lone Star College (University Park)__  
 
-* BCIS 1305 Business Computer Applications  
+* BCIS 1305 Business Computer Applications (2 sections) 
 * ITSW 1304 Introduction to Spreadsheets  
 
 `Fall 2016`__Lone Star College (University Park)__  
