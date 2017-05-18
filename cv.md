@@ -42,7 +42,7 @@ NSF Advanced Technological Education (ATE) 1665201. “<a href="https://www.nsf.
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-Lingineni, M., **B. Caraway**, P.C. Benjamin, R.J. Mayer. A Tutorial on ProSim: A Knowledge-Based Simulation Model Design Tool. Proceedings of the 1996 Winter Simulation Conference. IEEE Computer Society. Washington D.C., USA 1996: 476-480.  
+Lingineni, M., **B. Caraway**, P.C. Benjamin, R.J. Mayer. <a href="http://ieeexplore.ieee.org/document/873319/" target="_blank">/a>A Tutorial on ProSim: A Knowledge-Based Simulation Model Design Tool</a>. Proceedings of the 1996 Winter Simulation Conference. IEEE Computer Society. Washington D.C., USA 1996: 476-480.  
 
 ## Conference Presentations
 
