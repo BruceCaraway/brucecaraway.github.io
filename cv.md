@@ -36,18 +36,21 @@ Star Award, Lone Star College - Montgomery
 Continuing Education Department  
 
 ## Grants  
+`2017-2019`
 NSF Advanced Technological Education (ATE) 1665201. “<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1665201&HistoricalAwards=false" target="_blank">Advanced Programmable Logic Controllers, Robotics and Networking</a>.” 
 7/1/2017 to 12/31/2019: $$198,671, PI.
 
 ## Publications
-
+`1996`
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 Lingineni, M., **B. Caraway**, P.C. Benjamin, R.J. Mayer. <a href="http://ieeexplore.ieee.org/document/873319/" target="_blank">A Tutorial on ProSim: A Knowledge-Based Simulation Model Design Tool</a>. Proceedings of the 1996 Winter Simulation Conference. IEEE Computer Society. Washington D.C., USA 1996: 476-480.  
 
 ## Conference Presentations
 
+`2017`
 **Caraway, B.**, Cross, C., (2017, March) 	<a href="http://conference17.txdla.org/ATTEND/ScheduleofEvents.aspx" target="_blank">Using Slack to Foster Communication in the Online Classroom</a>. Presentation at Texas Distance Learning Association 2017 Conference, Moody Gardens in Galveston, TX.
 
+`2016`
 Caraway, B. (2016, July). <a href="https://2016.wpcampus.org/schedule/helping-faculty-figure-wordpress-fits/" target="_blank">Helping Faculty Figure Out Where WordPress Fits</a>. Presentation at WPCampus 2016 Conference, University of South Florida Sarsota-Manatee, Sarasota, FL.  
 
 ## Education
