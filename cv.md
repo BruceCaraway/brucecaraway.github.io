@@ -54,7 +54,7 @@ Malkan, R., **Caraway, B.**, (2017, July)   <a href="http://www.highimpact-tec.o
 **Caraway, B.**, Cross, C., (2017, March) 	<a href="http://conference17.txdla.org/ATTEND/ScheduleofEvents.aspx" target="_blank">Using Slack to Foster Communication in the Online Classroom</a>. Presentation at Texas Distance Learning Association 2017 Conference, Moody Gardens in Galveston, TX.
 
 `2016`
-Caraway, B. (2016, July). <a href="https://2016.wpcampus.org/schedule/helping-faculty-figure-wordpress-fits/" target="_blank">Helping Faculty Figure Out Where WordPress Fits</a>. Presentation at WPCampus 2016 Conference, University of South Florida Sarsota-Manatee, Sarasota, FL.  
+Caraway, B. (2016, July). <a href="https://2016.wpcampus.org/schedule/helping-faculty-figure-wordpress-fits/" target="_blank">Helping Faculty Figure Out Where WordPress Fits</a>. Presentation at WPCampus 2016 Conference, University of South Florida Sarasota-Manatee, Sarasota, FL.  
 
 ## Education
 
@@ -64,7 +64,7 @@ Texas A&M University, College Station, TX
 
 `1990-1994`
 __M.S. Industrial Engineering__  
-Speciality:  Computer Integrated Manufacturing  
+Specialty:  Computer Integrated Manufacturing  
 Texas A&M University, College Station, TX   
 
 ## Teaching Experience
@@ -252,7 +252,7 @@ and organizations.
 
 `1997-1999`__Taurus Associates, Inc., The Woodlands, TX__ Principle, Lead Database/Application Developer  
 
-* Directed the installation/configuration/customization of an off-the-shelf ERP package for a petrochemical supply-chain company. Tasks included reengineering the company’s corporate dictionary and developing a full catalog of data models, extensive data conversion and migration of the company’s legacy data into the new system.  
+* Directed the installation/configuration/customization of an off-the-shelf ERP package for a petrochemical supply-chain company. Tasks included re-engineering the company’s corporate dictionary and developing a full catalog of data models, extensive data conversion and migration of the company’s legacy data into the new system.  
 * Co-developed an asset tracking, inspection, and repair management system for industrial valves and controls.  
 
 `1993-1997`__Knowledge Based Systems, Inc., College Station, TX__ Systems Consultant and Trainer  
@@ -260,7 +260,7 @@ and organizations.
 * Served as primary trainer in the use of the IDEF business and information modeling methods and related modeling (software) tools.  
 * Served as consultant and trainer for the Electronic Commerce Resource Center (Orange, TX) in the use of business analysis and modeling tools.  
 * Provided extensive business process and data modeling services to a variety of customers in both the public and private sector and in domains ranging from manufacturing to service-oriented operations.  
-* Served as Business Reengineering analyst on a 6-month project modeling the business processes employed in the Program Depot Maintenance system at the Oklahoma City Air Logistics Center.  
+* Served as Business Re-engineering analyst on a 6-month project modeling the business processes employed in the Program Depot Maintenance system at the Oklahoma City Air Logistics Center.  
 * Designed and developed database applications for various customers using SQL Server and MS Access.  
 
 `1992 – 1993`__Industrial Engr. Dept., TAMU, College Station, TX__ Research Assistant  
