@@ -48,6 +48,9 @@ Lingineni, M., **B. Caraway**, P.C. Benjamin, R.J. Mayer. <a href="http://ieeexp
 ## Conference Presentations
 
 `2017`
+Malkan, R., **Caraway, B.**, (2017, July)   <a href="http://www.highimpact-tec.org/session-descriptions.php#session7D" target="_blank">Integrating Data Visualization and Communication Tools in the Curriculum</a>. Presentation at High Impact Technology Exchange Conference (HI-TEC) 2017 Conference, Salt Lake City, UT.
+
+`2017`
 **Caraway, B.**, Cross, C., (2017, March) 	<a href="http://conference17.txdla.org/ATTEND/ScheduleofEvents.aspx" target="_blank">Using Slack to Foster Communication in the Online Classroom</a>. Presentation at Texas Distance Learning Association 2017 Conference, Moody Gardens in Galveston, TX.
 
 `2016`
@@ -66,6 +69,10 @@ Texas A&M University, College Station, TX
 
 ## Teaching Experience
 
+`Summer 2017`__Lone Star College (University Park)__  
+
+* ITSE 1311 Beginning Web Programming  
+ 
 `Summer 2017`__Lone Star College (Montgomery)__   
 
 * ITNWC 2109100 SEO: Analytics and Tracking  
