@@ -67,6 +67,30 @@ __M.S. Industrial Engineering__
 Specialty:  Computer Integrated Manufacturing  
 Texas A&M University, College Station, TX   
 
+## Academic Service
+
+`2017 - 2018`__Lone Star College (University Park)__  
+
+* Lead Faculty, CIT  
+* Chair, CIT Advisory Council  
+* Facilitator, Adjunct Certification Program   
+
+`2016 - 2017`__Lone Star College (University Park)__  
+
+* Lead Faculty, CIT  
+* Chair, CIT Curriculum Team  
+* Chair, CIT Advisory Council  
+* Facilitator, Adjunct Certification Program   
+
+`2015 - 2016`__Lone Star College (University Park)__  
+
+* Voting Member, CIT Curriculum Team  
+* Facilitator, Adjunct Certification Program   
+
+`2015 - 2016`__Lone Star College (University Park)__    
+
+* Facilitator, Online Teaching Certification  
+
 ## Teaching Experience
 
 `Summer 2017`__Lone Star College (University Park)__  
@@ -87,8 +111,7 @@ Texas A&M University, College Station, TX
 * ITSE 1302 Computer Programming  
 * ITSE 1311 Beginning Web Programming  
 * COSC 1301 Introduction to Computers 
-* BCIS 1305 Business Computer Applications   
-* Adjunct Certification Program Facilitator  
+* BCIS 1305 Business Computer Applications    
 
 `Fall 2016`__Lone Star College (Montgomery)__   
 
@@ -102,14 +125,12 @@ Texas A&M University, College Station, TX
 
 * ITSE 1302 Computer Programming  
 * ITSE 1311 Beginning Web Programming  
-* COSC 1301 Introduction to Computers (3 sections)   
-* Adjunct Certification Program Facilitator  
+* COSC 1301 Introduction to Computers (3 sections)    
 
 `Fall 2015`__Lone Star College (University Park)__  
 
 * ITSE 1302 Computer Programming  
 * COSC 1301 Introduction to Computers (4 sections)   
-* Adjunct Certification Program Facilitator  
 
 `Summer 2015`__Lone Star College (University Park)__  
 
@@ -118,7 +139,6 @@ Texas A&M University, College Station, TX
 `Spring 2015`__Lone Star College (University Park)__
 
 * COSC 1301 Introduction to Computers (4 sections)   
-* Online Teaching Certification Facilitator  
 
 `Spring 2015`__Lone Star College (Montgomery)__   
 
@@ -128,7 +148,6 @@ Texas A&M University, College Station, TX
 `Fall 2014`__Lone Star College (University Park)__ 
 
 * COSC 1301 Introduction to Computers (3 sections)  
-* Online Teaching Certification Facilitator  
 
 `Fall 2014`__Lone Star College (Montgomery)__  
 
