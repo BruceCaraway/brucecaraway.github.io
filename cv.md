@@ -288,4 +288,4 @@ and organizations.
 
 <!--Footer-->
 
-Document last updated: May 2017
+Document last updated: August 2017
