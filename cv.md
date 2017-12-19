@@ -93,6 +93,11 @@ Texas A&M University, College Station, TX
 
 ## Teaching Experience
 
+`Fall 2017`__Lone Star College (University Park)__  
+
+* BCIS 1305 Business Computer Applications (4 sections) 
+* ITSE 1350 Systems Analysis and Design  
+
 `Summer 2017`__Lone Star College (University Park)__  
 
 * ITSE 1311 Beginning Web Programming  
