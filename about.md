@@ -10,4 +10,3 @@ brucecaraway.com is:
 - powered by <a href="https://jekyllrb.com" target="_blank">Jekyll</a>    
 - hosted on <a href="https://pages.github.com" target="_blank">GitHub Pages</a>  
 - designed to be responsive and compatible with a variety of devices  
-- awesome
