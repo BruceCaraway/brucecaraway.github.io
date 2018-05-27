@@ -14,7 +14,7 @@ Assistant Professor at Lone Star College - University Park
 
 I teach in the Computer and Information Technology Department at Lone Star College (LSC). My course topics include general computing, computer programming, web programming, business applications, and WordPress. 
 
-### Specialized in
+## Specialized in
 
 * Web Programming (HTML/CSS/JavaScript)  
 * WordPress  
@@ -22,7 +22,7 @@ I teach in the Computer and Information Technology Department at Lone Star Colle
 * Practical Programming with Python 
 
 
-### Research interests
+## Research interests
 
 * Programming for Engineers
 * Data Visualization in Mobile Contexts  
