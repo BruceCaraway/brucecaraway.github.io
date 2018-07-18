@@ -14,7 +14,7 @@ Assistant Professor at Lone Star College - University Park
 
 I teach in the Computer and Information Technology Department at Lone Star College (LSC). My course topics include general computing, computer programming, web programming, business applications, and WordPress. 
 
-## Specialized in
+### Specialized in
 
 * Web Programming (HTML/CSS/JavaScript)  
 * WordPress  
@@ -22,10 +22,10 @@ I teach in the Computer and Information Technology Department at Lone Star Colle
 * Practical Programming with Python 
 
 
-## Research interests
+### Research interests
 
 * Programming for Engineers
-* Data Visualization in Mobile Contexts  
+* Data Visualization  
 * WordPress in Academia  
 * Python Programming Language  
 
@@ -40,6 +40,10 @@ Continuing Education Department
 NSF Advanced Technological Education (ATE) 1665201. “<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1665201&HistoricalAwards=false" target="_blank">Advanced Programmable Logic Controllers, Robotics and Networking</a>.” 
 7/1/2017 to 12/31/2019: $$198,671, PI.
 
+`2017-2022`
+NSF Advanced Technological Education (ATE) 1700530. “<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1700530&HistoricalAwards=false" target="_blank">National Convergence Technology Center - Subrecipient</a>.” 
+7/1/2017 to 6/30/2022: Senior Staff.
+
 ## Publications
 `1996`
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
@@ -47,8 +51,11 @@ Lingineni, M., **B. Caraway**, P.C. Benjamin, R.J. Mayer. <a href="http://ieeexp
 
 ## Conference Presentations
 
+`2018`
+Malkan, R., **Caraway, B.**, (2018, July)   <a href="http://www.highimpact-tec.org/session-descriptions.php#session8F" target="_blank">Bringing Data Analytics and Data Visualization Into Your Classroom</a>. Presentation at High Impact Technology Exchange Conference (HI-TEC) 2018 Conference, Miami, FL.
+
 `2017`
-Malkan, R., **Caraway, B.**, (2017, July)   <a href="http://www.highimpact-tec.org/session-descriptions.php#session7D" target="_blank">Integrating Data Visualization and Communication Tools in the Curriculum</a>. Presentation at High Impact Technology Exchange Conference (HI-TEC) 2017 Conference, Salt Lake City, UT.
+Malkan, R., **Caraway, B.**, (2017, July)   Integrating Data Visualization and Communication Tools in the Curriculum. Presentation at High Impact Technology Exchange Conference (HI-TEC) 2017 Conference, Salt Lake City, UT.
 
 `2017`
 **Caraway, B.**, Cross, C., (2017, March) 	<a href="http://conference17.txdla.org/ATTEND/ScheduleofEvents.aspx" target="_blank">Using Slack to Foster Communication in the Online Classroom</a>. Presentation at Texas Distance Learning Association 2017 Conference, Moody Gardens in Galveston, TX.
@@ -93,19 +100,20 @@ Texas A&M University, College Station, TX
 
 ## Teaching Experience
 
-`Spring 2018`__Lone Star College (University Park)__  
 
-* BCIS 1305 Business Computer Applications (3 sections) 
-* ITSW 1304 Introduction to Spreadsheets 
+`Summer 2018`__Lone Star College (University Park)__
 
-`Spring 2018`__Lone Star College (Montgomery)__  
+* BCIS 1305 Business Computer Applications (3 sections)
+* ITSW 1304 Introduction to Spreadsheets
 
-* ITNWC 2109100 SEO: Analytics and Tracking   
+`Spring 2018`__Lone Star College (Montgomery)__
 
-`Fall 2017`__Lone Star College (University Park)__  
+* ITNWC 2109100 SEO: Analytics and Tracking 
 
-* BCIS 1305 Business Computer Applications (4 sections) 
-* ITSE 1350 Systems Analysis and Design  
+`Fall 2017`__Lone Star College (University Park)__
+
+* BCIS 1305 Business Computer Applications (4 sections)
+* ITSE 1350 Systems Analysis and Design 
 
 `Summer 2017`__Lone Star College (University Park)__  
 
@@ -302,4 +310,4 @@ and organizations.
 
 <!--Footer-->
 
-Document last updated: May 2018
+Document last updated: August 2018
