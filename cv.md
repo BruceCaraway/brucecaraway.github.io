@@ -3,7 +3,7 @@ layout: cv
 title: Bruce Caraway
 ---
 # Bruce Caraway
-Assistant Professor at Lone Star College - University Park
+Associate Professor at Lone Star College - University Park
 
 <div id="webaddress">
 <a href="mailto:bruce.e.caraway@lonestar.edu">bruce.e.caraway@lonestar.edu</a>
