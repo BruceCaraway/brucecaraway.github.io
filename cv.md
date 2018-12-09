@@ -76,6 +76,10 @@ Texas A&M University, College Station, TX
 
 ## Academic Service
 
+`2018 - 2019`__Lone Star College (University Park)__  
+
+* Voting Member, CIT Curriculum Team  
+
 `2017 - 2018`__Lone Star College (University Park)__  
 
 * Lead Faculty, CIT  
@@ -100,6 +104,12 @@ Texas A&M University, College Station, TX
 
 ## Teaching Experience
 
+`Fall 2018`__Lone Star College (University Park)__
+
+* BCIS 1305 Business Computer Applications (2 sections)
+* ITSE 1302 Computer Programming  
+* ITSE 1311 Beginning Web Programming
+* ITSE 2302 Intermediate Web Programming
 
 `Summer 2018`__Lone Star College (University Park)__
 
