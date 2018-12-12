@@ -320,4 +320,4 @@ and organizations.
 
 <!--Footer-->
 
-Document last updated: August 2018
+Document last updated: December 2018
