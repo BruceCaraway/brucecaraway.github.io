@@ -51,14 +51,17 @@ Lingineni, M., **B. Caraway**, P.C. Benjamin, R.J. Mayer. <a href="http://ieeexp
 
 ## Conference Presentations
 
+`2019`
+Malkan, R., **Caraway, B.**, (2019, July)   **DevSecOps = DevOps + Secure Coding**. Presentation at High Impact Technology Exchange Conference (HI-TEC) 2019 Conference, St. Louis, MO.
+
 `2018`
-Malkan, R., **Caraway, B.**, (2018, July)   <a href="http://www.highimpact-tec.org/session-descriptions.php#session8F" target="_blank">Bringing Data Analytics and Data Visualization Into Your Classroom</a>. Presentation at High Impact Technology Exchange Conference (HI-TEC) 2018 Conference, Miami, FL.
+Malkan, R., **Caraway, B.**, (2018, July)   **Bringing Data Analytics and Data Visualization Into Your Classroom**. Presentation at High Impact Technology Exchange Conference (HI-TEC) 2018 Conference, Miami, FL.
 
 `2017`
-Malkan, R., **Caraway, B.**, (2017, July)   Integrating Data Visualization and Communication Tools in the Curriculum. Presentation at High Impact Technology Exchange Conference (HI-TEC) 2017 Conference, Salt Lake City, UT.
+Malkan, R., **Caraway, B.**, (2017, July)   **Integrating Data Visualization and Communication Tools in the Curriculum**. Presentation at High Impact Technology Exchange Conference (HI-TEC) 2017 Conference, Salt Lake City, UT.
 
 `2017`
-**Caraway, B.**, Cross, C., (2017, March) 	<a href="http://conference17.txdla.org/ATTEND/ScheduleofEvents.aspx" target="_blank">Using Slack to Foster Communication in the Online Classroom</a>. Presentation at Texas Distance Learning Association 2017 Conference, Moody Gardens in Galveston, TX.
+**Caraway, B.**, Cross, C., (2017, March) 	**Using Slack to Foster Communication in the Online Classroom**. Presentation at Texas Distance Learning Association 2017 Conference, Moody Gardens in Galveston, TX.
 
 `2016`
 Caraway, B. (2016, July). <a href="https://2016.wpcampus.org/schedule/helping-faculty-figure-wordpress-fits/" target="_blank">Helping Faculty Figure Out Where WordPress Fits</a>. Presentation at WPCampus 2016 Conference, University of South Florida Sarasota-Manatee, Sarasota, FL.  
@@ -103,6 +106,10 @@ Texas A&M University, College Station, TX
 * Facilitator, Online Teaching Certification
 
 ## Teaching Experience
+
+`Summer 2019`__Lone Star College (University Park)__
+
+* BCIS 1305 Business Computer Applications (2 sections)
 
 `Spring 2019`__Lone Star College (University Park)__  
 
@@ -335,4 +342,4 @@ and organizations.
 
 <!--Footer-->
 
-Document last updated: December 2018
+Document last updated: August 2019
