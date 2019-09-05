@@ -149,7 +149,7 @@ h2+p {
 h3 {
 	font-size: 1em;
 	line-height: 2em; 
-	color: #ccc;
+	color: #a00;
 	position: relative;
 	top: 1.6em;
 	text-align: right;
@@ -169,7 +169,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 28%;
-	color: #ccc;
+	color: #a00;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }

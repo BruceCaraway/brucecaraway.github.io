@@ -144,6 +144,7 @@ h2 {
 
 h3 {
 	font-size: 1em;
+	color: #a00;
 	line-height: 2em; 
 	position: relative;
 	top: 1.7em;
@@ -164,7 +165,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 33%;
-	color: #aaa;
+	color: #a00;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
