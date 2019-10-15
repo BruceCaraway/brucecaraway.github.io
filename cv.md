@@ -348,4 +348,4 @@ and organizations.
 
 <!--Footer-->
 
-Document last updated: August 2019
+Document last updated: October 2019
