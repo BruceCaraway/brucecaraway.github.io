@@ -24,10 +24,10 @@ I teach in the Computer and Information Technology Department at Lone Star Colle
 
 ### Research interests
 
-* Programming for Engineers
+* Secure Coding Practices
+* WordPress in Academia
 * Data Visualization  
-* WordPress in Academia  
-* Python Programming Language  
+  
 
 ## Awards
 
@@ -106,6 +106,18 @@ Texas A&M University, College Station, TX
 * Facilitator, Online Teaching Certification
 
 ## Teaching Experience
+
+`Summer 2020`__Lone Star College (University Park)__
+
+* BCIS 1305 Business Computer Applications
+* ITSE 1302 Computer Programming  
+
+`Spring 2020`__Lone Star College (University Park)__  
+
+* BCIS 1305 Business Computer Applications (2 sections) 
+* ITSE 1302 Computer Programming  
+* ITSE 1350 Systems Analysis and Design 
+* ITSW 1304 Introduction to Spreadsheets 
 
 `Fall 2019`__Lone Star College (University Park)__
 
@@ -348,4 +360,4 @@ and organizations.
 
 <!--Footer-->
 
-Document last updated: October 2019
+Document last updated: June 2020
